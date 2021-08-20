@@ -2,4 +2,4 @@
 
 
 **Steps to run the script**
- 1. Usage  #./jobstatus.sh <namespacename>
+ 1. Usage  #./jobstatus.sh namespacename
